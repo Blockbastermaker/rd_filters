@@ -1,34 +1,16 @@
 {
-    "HBA": [
-        0,
-        10
-    ],
-    "HBD": [
-        0,
-        5
-    ],
-    "LogP": [
-        -5,
-        5
-    ],
-    "MW": [
-        0,
-        500
-    ],
-    "Rot": [
-        0,
-        10
-    ],
-    "Rule_BMS": false,
-    "Rule_Dundee": false,
-    "Rule_Glaxo": false,
-    "Rule_Inpharmatica": true,
-    "Rule_LINT": false,
-    "Rule_MLSMR": false,
-    "Rule_PAINS": false,
-    "Rule_SureChEMBL": false,
-    "TPSA": [
-        0,
-        200
-    ]
+"HBA":  [0, 10],    # D. Rognan
+"HBD":  [0, 10],    # D. Rognan
+"LogP": [-3, 5],    # D. Rognan
+"MW":   [150, 800], # D. Rognan
+"Rot":  [0, 15,     # D. Rognan
+"TPSA": [0, 200]    # P. Walters
+"Rule_BMS":          false,
+"Rule_Dundee":       false,
+"Rule_Glaxo":        false,
+"Rule_Inpharmatica": false,
+"Rule_LINT":         false,
+"Rule_MLSMR":        false,
+"Rule_PAINS":        true,
+"Rule_SureChEMBL":   false,
 }
