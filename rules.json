@@ -1,1 +1,19 @@
-rd_filters/data/rules.json
+{
+  "_": "D. Rognan",
+  "HBA":  [0, 10],
+  "HBD":  [0, 10],
+  "LogP": [-3, 5],
+  "MW":   [150, 800],
+  "Rot":  [0, 15],
+  "_": "P. Walters",
+  "TPSA": [0, 200],
+  "_": "user-config",
+  "Rule_PAINS":        true,
+  "Rule_BMS":          false,
+  "Rule_Dundee":       false,
+  "Rule_Glaxo":        false,
+  "Rule_Inpharmatica": false,
+  "Rule_LINT":         false,
+  "Rule_MLSMR":        false,
+  "Rule_SureChEMBL":   false
+}
