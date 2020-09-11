@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -x # DEBUG
+#set -x # DEBUG
 set -u
 
 HERE=~/src/rd_filters # your install setup
